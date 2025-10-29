@@ -149,7 +149,7 @@ git config core.sshCommand "ssh -i ~/.ssh/key -F /dev/null"
      ```
    - Push the code to your new repository with:
      ```
-     git push -u origin master
+     git push -u origin main
      ```
      If your main branch is named differently (e.g., **main**), replace **master** with the correct branch name.
 
